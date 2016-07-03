@@ -1,4 +1,2 @@
 # hello-world
-second
-third
-fourth
+first
